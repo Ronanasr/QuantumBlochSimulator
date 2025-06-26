@@ -62,7 +62,7 @@ The output is a Bloch sphere plot displaying:
 - The state after the Pauli-X gate in green.
 - The state after the rotation gate in purple.
 
-![Bloch Sphere](/blob/main/bloch_sphere.png)
+![Bloch Sphere](bloch_sphere.png)
 
 ## How to Run
 1. Clone the repository:
