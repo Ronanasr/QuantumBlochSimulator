@@ -50,3 +50,21 @@ A sample output is saved as `bloch_sphere.png` in the project directory.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+# QuantumBlochSimulator: Quantum Gate Simulation on a Single Qubit
+
+## Overview
+This project demonstrates the application of quantum gates (Hadamard, Pauli-X, Rotation) on a single qubit using QuTiP and visualizes the state evolution on a Bloch sphere with Matplotlib.
+
+## Results
+The output is a Bloch sphere plot displaying:
+- The initial state (|0>) in blue.
+- The state after the Hadamard gate in red.
+- The state after the Pauli-X gate in green.
+- The state after the rotation gate in purple.
+
+![Bloch Sphere](/Users/rona/Desktop/bloch_sphere.png)
+
+## How to Run
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/YourUsername/QuantumBlochSimulator.git
